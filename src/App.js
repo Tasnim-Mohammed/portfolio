@@ -1,8 +1,8 @@
 import {React,useEffect} from "react";
-import {HashRouter as Router ,Route,Routes } from 'react-router-dom';
+import { HashRouter as Router ,Route,Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
-import '@fortawesome/fontawesome-free/css/all.min.css';
+// import '@fortawesome/fontawesome-free/css/all.min.css';
 import './App.css';
 import Header from './Components/Header';
 import Home from './Components/Home';

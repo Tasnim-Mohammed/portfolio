@@ -81,13 +81,13 @@ font-size: 20px;
 }
 
 /*/////////////////////////////////////////////////////////////////*/
-.home{
+/* .home{
 background-image: url(../public//pexels-frank-cone-140140-3607542.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 padding-top: 130px;
 height: 100vh;
-}
+} */
 .right{
   min-height: 400px;
   text-align: center;
