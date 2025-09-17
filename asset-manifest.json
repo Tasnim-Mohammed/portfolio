@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f5b7da98.css",
+    "main.js": "/portfolio/static/js/main.409380bb.js",
+    "static/js/453.438d9e50.chunk.js": "/portfolio/static/js/453.438d9e50.chunk.js",
+    "static/media/pexels-frank-cone-140140-3607542.jpg": "/portfolio/static/media/pexels-frank-cone-140140-3607542.35e06a41daa57478bc77.jpg",
+    "static/media/project2.png": "/portfolio/static/media/project2.69d703c7705cfea834a1.png",
+    "static/media/project1 (5).png": "/portfolio/static/media/project1 (5).bf9aa4dd67ea46ba6256.png",
+    "static/media/project1 (2).png": "/portfolio/static/media/project1 (2).823ba0f6e9b6519903d2.png",
+    "static/media/project1 (1).png": "/portfolio/static/media/project1 (1).6a2efb3423e73bc37169.png",
+    "static/media/project1 (3).png": "/portfolio/static/media/project1 (3).c05dcee3c5df7542e9e7.png",
+    "static/media/project1 (4).png": "/portfolio/static/media/project1 (4).f927ed495a3b83d660bf.png",
+    "static/media/Group-379.png": "/portfolio/static/media/Group-379.b23699ab4e5af5efd127.png",
+    "static/media/fa-solid-900.woff2": "/portfolio/static/media/fa-solid-900.0ae4e6254fc19607c79e.woff2",
+    "static/media/fa-brands-400.woff2": "/portfolio/static/media/fa-brands-400.e7461d69dbbff1310a5c.woff2",
+    "static/media/heartbeat.webp": "/portfolio/static/media/heartbeat.6b11f31849c43ff83de1.webp",
+    "static/media/fa-regular-400.woff2": "/portfolio/static/media/fa-regular-400.1f38a564cd9eae27ebc3.woff2",
+    "static/media/fa-v4compatibility.woff2": "/portfolio/static/media/fa-v4compatibility.661bd6b7245d5205d3e1.woff2",
+    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/portfolio/index.html",
+    "main.f5b7da98.css.map": "/portfolio/static/css/main.f5b7da98.css.map",
+    "main.409380bb.js.map": "/portfolio/static/js/main.409380bb.js.map",
+    "453.438d9e50.chunk.js.map": "/portfolio/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b7da98.css",
+    "static/js/main.409380bb.js"
+  ]
+}
