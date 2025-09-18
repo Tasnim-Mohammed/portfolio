@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import img1 from "../assest/project1 (1).png";
 import img2 from "../assest/project1 (2).png";
 import img3 from "../assest/project1 (3).png";
@@ -16,7 +15,11 @@ const SectionOne=()=>{
           
           <div className="overlay-featured align-content-center w-100 h-100">
            <p className="text-capitalize text-light fw-bold">project 1</p>
-           <Link to="https://tasnim-mohammed.github.io/project1/"><i className="fa-solid fa-link text-light fs-5"></i></Link>
+           <a 
+              href="https://tasnim-mohammed.github.io/project1/" 
+              target="_blank" 
+              rel="noreferrer"
+            ><i className="fa-solid fa-link text-light fs-5"></i></a>
           </div>
         </div>
          
@@ -25,7 +28,11 @@ const SectionOne=()=>{
           
           <div className="overlay-featured align-content-center w-100 h-100">
            <p className="text-capitalize text-light fw-bold">project 2</p>
-           <Link to="https://tasnim-mohammed.github.io/project2/"><i className="fa-solid fa-link text-light fs-5"></i></Link>
+           <a 
+              href="https://tasnim-mohammed.github.io/project2/" 
+              target="_blank" 
+              rel="noreferrer"
+            ><i className="fa-solid fa-link text-light fs-5"></i></a>
           </div>
         </div>
          
@@ -34,7 +41,11 @@ const SectionOne=()=>{
           
           <div className="overlay-featured align-content-center w-100 h-100">
            <p className="text-capitalize text-light fw-bold">project 3</p>
-           <Link to="https://tasnim-mohammed.github.io/project3/"><i className="fa-solid fa-link text-light fs-5"></i></Link>
+           <a 
+              href="https://tasnim-mohammed.github.io/project3/" 
+              target="_blank" 
+              rel="noreferrer"
+            ><i className="fa-solid fa-link text-light fs-5"></i></a>
           </div>
         </div>
          
@@ -43,7 +54,11 @@ const SectionOne=()=>{
           
           <div className="overlay-featured align-content-center w-100 h-100">
            <p className="text-capitalize text-light fw-bold">project 4</p>
-           <Link to="https://tasnim-mohammed.github.io/project4/"><i className="fa-solid fa-link text-light fs-5"></i></Link>
+           <a 
+              href="https://tasnim-mohammed.github.io/project4/" 
+              target="_blank" 
+              rel="noreferrer"
+            ><i className="fa-solid fa-link text-light fs-5"></i></a>
           </div>
         </div>
 
@@ -52,7 +67,11 @@ const SectionOne=()=>{
           
           <div className="overlay-featured align-content-center w-100 h-100">
            <p className="text-capitalize text-light fw-bold">cards</p>
-           <Link to="https://tasnim-mohammed.github.io/cards-idea/"><i className="fa-solid fa-link text-light fs-5"></i></Link>
+           <a 
+              href="https://tasnim-mohammed.github.io/cards-idea/" 
+              target="_blank" 
+              rel="noreferrer"
+            ><i className="fa-solid fa-link text-light fs-5"></i></a>
           </div>
         </div>
          

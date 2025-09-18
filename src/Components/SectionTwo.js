@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import img6 from "../assest/project2.png"
 const SectionTwo=()=>{
   return(
@@ -12,11 +11,15 @@ const SectionTwo=()=>{
           
           <div className="overlay-featured align-content-center w-100 h-100">
            <p className="text-capitalize text-light fw-bold">the application code</p>
-           <Link to="https://github.com/Tasnim-Mohammed/backend-project"><i className="fa-solid fa-link text-light fs-5"></i></Link>
+           <a 
+              href="https://github.com/Tasnim-Mohammed/backend-project" 
+              target="_blank" 
+              rel="noopener noreferrer"
+            ><i className="fa-solid fa-link text-light fs-5"></i></a>
           </div>
         </div>
          
-         
+    
          
          
        </div>

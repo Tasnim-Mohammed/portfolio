@@ -14,7 +14,7 @@ const Home=()=>{
   }}>
       <div className="container">
         <div className=" m-auto row">
-        <div className="left col-md-6 col-12">
+        <div className="left col-md-6 col-12 p-0">
             <div className="inside">
               <button className="btn1 mb-3">welcome all in my portfolio</button>
               <h2>Hi! I'm Tasnim Mohamed Al-Hattab</h2>

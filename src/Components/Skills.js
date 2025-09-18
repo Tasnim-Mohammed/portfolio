@@ -2,10 +2,12 @@ import React from "react";
 import { CircularProgressbar,buildStyles } from "react-circular-progressbar";
 import "react-circular-progressbar/dist/styles.css";
 import Slider from "react-slick";
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
 
 
 const GradientCircle = ({ value, text, gradientId }) => (
-  <div style={{ width: 120, height: 120, margin: "auto" }}>
+  <div className="circle-wrapper">
     {/* تعريف الـ gradient */}
     <svg style={{ height: 0 }}>
       <defs>

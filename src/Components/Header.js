@@ -24,9 +24,9 @@ const Header=()=>{
 
              <li className="nav-item icons d-flex align-items-center ">
                <div className="links">
-                 <Link to={"https://www.facebook.com/share/17DwYiAzFB/"} className="me-3" ><i className="fab fa-facebook-f"></i></Link>
-                 <Link to={"https://github.com/Tasnim-Mohammed"} className="me-3"><i className="fab fa-github"></i></Link>
-                 <Link to={"https://www.linkedin.com/in/tasnim-al-hattab-793649298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"} className="me-4"><i className="fab fa-linkedin-in"></i></Link>
+                 <a href="https://www.facebook.com/share/17DwYiAzFB/" target="_blank" rel="noopener noreferrer" className="me-3" ><i className="fab fa-facebook-f"></i></a>
+                <a href="https://github.com/Tasnim-Mohammed" target="_blank" rel="noopener noreferrer" className="me-3" ><i className="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/tasnim-al-hattab-793649298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="me-3" ><i className="fab fa-linkedin-in"></i></a>
                </div>
                <div className="links-btn"><button>Let's Connect</button></div>
              </li>
