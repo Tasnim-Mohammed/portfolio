@@ -60,11 +60,17 @@ const Skills=()=>{
         },
       },
       {
-        breakpoint: 576,   // للشاشات أقل من 576px
+        breakpoint:768,   
         settings: {
           slidesToShow: 1,
         },
       },
+      {
+        breakpoint: 576,   // للشاشات أقل من 576px
+        settings: {
+          slidesToShow: 1,
+        },
+      }
     ],
   };
 

@@ -382,6 +382,17 @@ h2 {
     height: 60vh;
   }
 }
+@media (max-width: 768px) {
+  .circle-wrapper {
+    width: 90% !important;
+  }
+ 
+
+  .circle-wrapper h6 {
+    font-size: 14px;
+    white-space: normal; /* يخلي النص ينزل سطر جديد بدل ما يتكسر */
+  }
+}
 /* للشاشات الصغيرة (أقل من 576px) */
 @media (max-width: 576px) {
   h2 {
